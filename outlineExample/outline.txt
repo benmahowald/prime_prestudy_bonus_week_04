@@ -1,0 +1,12 @@
+Objective: Program that will help an oddities store search their inventory.
+Input: Size (small, med, large), color (purple, orange, black, red, blue, green, fuchsia, mermaid(treasure)
+
+OutPut: text of anything in stock that fits description
+
+versioning plan:
+handshake js and html (sourcing inventory js)
+get user selection on button click (onClick tag in HTML element that runs a js function)
+select size (select element with options within)
+check if we have something in a given size
+select a color
+check inventory for a match on size and color (nested ifs)
